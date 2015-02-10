@@ -4,7 +4,7 @@ Install
 -----
 
 ```
-$ curl https://github.com/y-matsuwitter/mackerel-fluentd/releases/download/v1.0.0/mackerel-fluentd.linux > /path/to/mackerel-fluentd
+$ curl -L -o /path/to/mackerel-fluentd  https://github.com/y-matsuwitter/mackerel-fluentd/releases/download/v0.0.1/mackerel-fluentd.linux
 $ chmod a+x /path/to/mackerel-fluentd
 ```
 
