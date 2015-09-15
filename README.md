@@ -29,3 +29,8 @@ Please specify a plugin id like this.
   type stdout
 </match>
 ```
+
+License
+----
+
+Mantle is released under the MIT license. See [LICENSE.md](https://github.com/y-matsuwitter/mackerel-fluentd//blob/master/LICENSE.md).
